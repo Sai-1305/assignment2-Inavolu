@@ -22,3 +22,15 @@ The other teams that I like to watch them play cricket are:
 * England
 
 ***Note***: Please click on this [link](AboutMe.md) to know more about me.
+
+---
+## My favorite countries
+
+Since my childhood, I have learnt about a lot of countries and the corresponding reasons why one should visit them. The sources are many, like the internet, some visitors and lessons from my school text book. Among all those, I have four countries that I would recommend anyone to visit. The countries, the reasons and the number of days required to spend there are listed below.
+
+|Name of the country|Reason to visit|Days to spend|
+|:---:|---|:---:|
+|Japan|The blooming of Cherry blossom trees is a visual treat.It happens in the month of April.|10|
+|Switzerland|The Alps of Switzerland are beautiful.|7|
+|USA|New York, Santa Monica and Grand Canyon are the places to watch.|15|
+|Newzealand|Newzealand has many lakes. The adventure tourism of Newzealand is a must watch.|15|
