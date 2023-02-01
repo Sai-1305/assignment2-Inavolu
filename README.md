@@ -34,3 +34,9 @@ Since my childhood, I have learnt about a lot of countries and the corresponding
 |Switzerland|The Alps of Switzerland are beautiful.|7|
 |USA|New York, Santa Monica and Grand Canyon are the places to watch.|15|
 |Newzealand|Newzealand has many lakes. The adventure tourism of Newzealand is a must watch.|15|
+
+---
+## A few pithy quotes
+> Money is a tool, so I don't have to be. -- *Eddie Mumford*
+
+> Nobody reaches anywhere by believing. -- *Osho*
