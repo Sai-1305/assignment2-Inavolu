@@ -40,3 +40,14 @@ Since my childhood, I have learnt about a lot of countries and the corresponding
 > Money is a tool, so I don't have to be. -- *Eddie Mumford*
 
 > Nobody reaches anywhere by believing. -- *Osho*
+
+---
+## Code fencing
+> Trying to display latest Tweet
+<https://stackoverflow.com/questions/11371185/trying-to-display-latest-tweet>
+```
+$.getJSON("https://api.twitter.com/1/statuses/user_timeline/chriscoyier.json?count=1&include_rts=1&callback=?", function(data) {
+     $("#twitter").html(data[0].text);
+});
+```
+Source: <https://css-tricks.com/snippets/jquery/display-last-tweet/>
