@@ -20,5 +20,3 @@ The other teams that I like to watch them play cricket are:
 * New Zealand
 * Australia
 * England
-
-Please click on this [link](AboutMe.md) to know a bit more about me.
